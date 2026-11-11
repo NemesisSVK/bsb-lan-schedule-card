@@ -5,7 +5,7 @@ A compact editable Home Assistant Lovelace card for **Siemens heating schedules 
 ![Version](https://img.shields.io/badge/version-0.1.9-blue?style=flat-square)
 ![Marketplace](https://img.shields.io/badge/Home%20Assistant-Marketplace-blue?style=flat-square)
 
-![Compact Siemens weekly schedule editor with health and operating-mode badges](screenshots/schedule-overview.png)
+![Compact Siemens weekly schedule editor with health and operating-mode badges](schedule-overview.png)
 
 ## Overview
 
