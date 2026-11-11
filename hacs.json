@@ -1,0 +1,6 @@
+{
+  "name": "BSB-LAN MQTT Schedule Card",
+  "filename": "bsb-lan-schedule-card.js",
+  "content_in_root": true,
+  "homeassistant": "2026.11.0"
+}
