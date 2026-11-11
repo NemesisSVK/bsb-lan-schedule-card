@@ -178,8 +178,6 @@ Hard-refresh the browser after updates. Never load both manual and Marketplace r
 
 <!-- ha-marketplace:exclude-end -->
 
-For repository publishing instructions, see **[PUBLISHING.md](PUBLISHING.md)**.
-
 ## Editing and Save behavior
 
 Opening a weekday creates a local draft. Nothing is written while start/end values, phase toggles, or Paste are being used.
